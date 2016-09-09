@@ -1,0 +1,13 @@
+{
+  "projectname": "SPSBoston2016",
+  "rootFolder": "/WebstormProjects/SPSBoston2016",
+  "srcFiles": [
+    "./js/**/*.js",
+    "./html/**/*.html",
+    "./css/**/*.css"
+  ],
+  "siteCollURL": "https://sympraxis.sharepoint.com",
+  "destFolder": "/sites/Demos2013/ScriptsCSS",
+  "username": "marc.anderson@sympraxisconsulting.com",
+  "pwd": "Rabbit22!"
+}
