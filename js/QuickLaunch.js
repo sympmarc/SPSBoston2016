@@ -9,6 +9,7 @@ $(document).ready(function() {
         },200);
         contentBox.stop().animate({'marginLeft':'220px'},200);
 
+
     }, function() {
 
         $($(this)).stop().animate({
